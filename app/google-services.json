@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49592558538",
+    "project_id": "login-2ac79",
+    "storage_bucket": "login-2ac79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49592558538:android:68fbdea0995d487464a533",
+        "android_client_info": {
+          "package_name": "com.sahil.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49592558538-scfo6hskn4kn77dlus6dja2o1agp4t11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn2h6FfTp8WkV1HNWKdfhA2ZriXANV_Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49592558538-scfo6hskn4kn77dlus6dja2o1agp4t11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
